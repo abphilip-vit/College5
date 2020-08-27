@@ -1,1 +1,1 @@
-# College - MAT1011: MatLab
+# College - MAT1011: MATLAB
